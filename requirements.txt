@@ -1,0 +1,9 @@
+pypdf
+rapidocr-onnxruntime
+unstructured[pdf]
+langchain
+openai ==0.28
+pinecone-cli
+sentence_transformers
+streamlit
+streamlit-chat
